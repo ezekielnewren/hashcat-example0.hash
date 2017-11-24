@@ -1,2 +1,2 @@
 This repository is for those who are interested in what passwords were used to create example0.hash 
-that comes standard with hashcat.
+that comes standard with hashcat. So far I have found 6181/6494=95.1%
